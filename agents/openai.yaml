@@ -1,0 +1,7 @@
+interface:
+  display_name: "社科论证逻辑"
+  short_description: "设计、还原并审计社会科学研究的问题—证据—结论链条"
+  default_prompt: "Use $social-science-argumentation to 梳理这项社会科学研究从问题、机制和证据到结论的完整论证逻辑。"
+
+policy:
+  allow_implicit_invocation: true
